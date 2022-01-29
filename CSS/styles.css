@@ -1,0 +1,153 @@
+
+body{
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  color: #40514E;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  padding-bottom: 10px;
+  font-size: 2rem;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+.top-container{
+  background-color: #D6E5FA;
+  position: relative;
+  padding-top: 80px;
+}
+.intro{
+  width: 50%;
+  margin: auto;
+}
+
+.mainhead{
+  font-family: 'Cookie', sans-serif;
+  font-weight: 400;
+  font-size: 5.625rem;
+  padding-top: 30px;
+  padding-bottom: 0;
+  color: #66BFBF;
+  margin-bottom: 0;
+
+}
+.middle-container{
+  color: #40514E;
+  padding: 100px 0;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 0 0 20px;
+}
+.bottom{
+  position: absolute;
+  bottom: 300px;
+  left: 250px;
+}
+.top{
+  display: block;
+  position: absolute;
+  right: 250px;
+  top: 100px;
+}
+.pro{
+  text-decoration: underline;
+}
+.profession{
+font-weight: normal;
+font-size: 1.875rem;
+
+}
+.linkedin{
+  height: 44px;
+  width: 44px;
+  margin-right: 20px;
+}
+.linkedin:hover{
+  border: solid;
+  border-radius: 5px;
+  border-color: #1572A1;
+  }
+.twitter{
+  height: 44px;
+  width: 44px;
+  margin-top: 40px;
+}
+.twitter:hover{
+border: solid;
+border-radius: 5px;
+border-color: #1572A1;
+}
+.world{
+  height: 44px;
+  width: 44px;
+  margin-left: 20px;
+}
+.world:hover{
+border: solid;
+border-radius: 5px;
+border-color: #1572A1;
+}
+.contactme{
+  height: 84px;
+  width: 84px;
+  margin: auto;
+}
+.contactme:hover{
+  background-image: linear-gradient(to bottom,#7C99AC,#92A9BD,#D3DEDC);
+  border: solid;
+  border-color: #313552;
+  border-radius: 5px;
+}
+.code{
+  height: 152px;
+}
+.content{
+  height: 152px;
+}
+.Investing{
+  height: 152px;
+}
+.badminton{
+  height: 150px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.code,.Investing{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+.content,.badminton{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+.getin{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.getintouch{
+  padding-top: 20px;
+}
